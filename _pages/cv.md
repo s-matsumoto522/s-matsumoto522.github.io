@@ -9,16 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-## Employment
+## Employments
 ----
-<!-- <table style="border:none;font-size: 14pt;cellspacing=0">
-    <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow: Japan Society for the Promotion of Science (JSPS) DC1</a></td>
-    </tr>
-    <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.isas.jaxa.jp/en/researchers/inter-university/">	Inter-University Research System Researcher, JAXA Institute of Space and Astronautical Science</a></td>
-    </tr>
-</table> -->
 
 ## Education
 ----
