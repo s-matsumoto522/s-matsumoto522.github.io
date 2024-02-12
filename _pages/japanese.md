@@ -23,19 +23,29 @@ author_profile: true
 
 ----
 ## 略歴
-- 2023年3月〜現在   [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/) 機能創成専攻 博士後期課程
-- 2023年3月　       修士（工学）　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
-- 2021年3月　       学士（工学）　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
-- 2017年3月卒業     兵庫県立尼崎稲園高等学校
-
+<table>
+    <tr>
+        <td>2023年4月〜現在</td><td><a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a> 機能創成専攻 博士後期課程</td>
+    </tr>
+    <tr>
+        <td>2023年4月〜現在</td><td><a href="https://www.jsps.go.jp/j-pd/index.html">日本学術振興会特別研究員（DC1）</a></td>
+    </tr>
+    <tr>
+        <td>2023年3月</td><td>修士（工学）　<a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a></td>
+    </tr>
+    <tr>
+        <td>2021年3月</td><td>学士（工学）　<a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学基礎工学部</a></td>
+    </tr>
+    <tr>
+        <td>2017年3月</td><td>兵庫県立尼崎稲園高等学校　卒業</td>
+    </tr>
+</table>
 <p style="margin-bottom: 1.5em; "></p>
 
 ----
 ## 所属学会
 - [日本流体力学会](https://www.nagare.or.jp/)
 - [日本機械学会](https://www.jsme.or.jp/)
-
-<p style="margin-bottom: 2em; "></p>
 
 ----
 ## 学会発表
@@ -56,7 +66,7 @@ author_profile: true
 ### 国内学会
 
 
-<p style="margin-bottom: 2em; "></p> -->
+<!-- <p style="margin-bottom: 2em; "></p> -->
 
 <!-- スーパーコンピュータ公募利用
 =====
