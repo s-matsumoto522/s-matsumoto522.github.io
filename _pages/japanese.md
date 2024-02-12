@@ -23,7 +23,7 @@ author_profile: true
 
 ## 略歴
 ----
-<table style="border:none;">
+<table style="border:none;font-size: 14pt">
     <tr style="border:none;">
         <td style="border:none;">2023年4月〜現在</td><td style="border:none;"><a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a> 機能創成専攻 博士後期課程</td>
     </tr>
