@@ -21,8 +21,8 @@ author_profile: true
 
 📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
 
-----
 ## 略歴
+----
 <table>
     <tr>
         <td>2023年4月〜現在</td><td><a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a> 機能創成専攻 博士後期課程</td>
@@ -42,13 +42,13 @@ author_profile: true
 </table>
 <p style="margin-bottom: 1.5em; "></p>
 
-----
 ## 所属学会
+----
 - [日本流体力学会](https://www.nagare.or.jp/)
 - [日本機械学会](https://www.jsme.or.jp/)
 
-----
 ## 学会発表
+----
 <p style="margin-bottom: -0.5em; "></p>
 <!-- [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja) -->
 <p style="margin-bottom: -1.0em; "></p>
