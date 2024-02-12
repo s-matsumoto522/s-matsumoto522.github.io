@@ -15,6 +15,8 @@ redirect_from:
     <tr style="border:none;">
         <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow: Japan Society for the Promotion of Science (JSPS) DC1 (Osaka University)</a></td>
     </tr>
+    <tr style="border:none;">
+    </tr>
 </table>
 
 ## Education
