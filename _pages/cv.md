@@ -18,8 +18,7 @@ redirect_from:
     <tr style="border:none;">
         <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.isas.jaxa.jp/en/researchers/inter-university/">	Inter-University Research System Researcher, JAXA Institute of Space and Astronautical Science</a></td>
     </tr>
-</table>
-
+</table><br>
 
 ## Education
 ----
