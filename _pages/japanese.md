@@ -9,55 +9,37 @@ author_profile: true
 
 <p style="margin-bottom:  1.5em;"></p>
 <p style="margin-bottom: -0.5em;">
-  <font size="5"><b>岩下 航</b></font>
+  <font size="5"><b>松元 智嗣（まつもと さとし）</b></font>
 </p>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 &ensp;[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
-博士後期課程学生
+博士後期課程1年
 <p style="margin-bottom: -0.5em; "></p>
 
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
 <p style="margin-bottom: -0.5em; "></p>
 
-経歴
-=====
+研究対象：乱流，機械学習，乱流モデリング，低次元モデリング
+<p style="margin-bottom: -0.5em; "></p>
 
-* 2023年10月 - 2024年1月　客員研究員　[Computational Mechanics of Building Materials](https://ifb.ethz.ch/compmech/), [ETH Zurich](https://ethz.ch/en.html) (スイス)
-* 2022年3月　工学修士　　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
-* 2021年3月　工学学士　　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
-* 2019年3月　工学準学士　[長野工業高等専門学校](https://www.nagano-nct.ac.jp/english/index.php)
+📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
+
+### 略歴
+* 2023年3月〜現在   [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/) 機能創成専攻 博士後期課程
+* 2023年3月　       修士（工学）　　[大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
+* 2021年3月　       学士（工学）　　[大阪大学基礎工学部](https://www.es.osaka-u.ac.jp/ja/)
+* 2017年3月卒業     兵庫県立尼崎稲園高等学校
 
 <p style="margin-bottom: 1.5em; "></p>
 
-専門・研究分野
-======
-* <b>機械工学</b>
-* <b>トライボロジー</b>
-* <b>摩擦の物理</b>
-* <b>Amontons--Coulombの摩擦則</b>
-* <b>基板上の水滴の摩擦</b>
-
-所属学会
-=====
-* [日本トライボロジー学会](https://www.tribology.jp/index.html)
-* [日本物理学会](https://www.jps.or.jp/)
+### 所属学会
+* [日本流体力学回](https://www.nagare.or.jp/)
 * [日本機械学会](https://www.jsme.or.jp/)
-* [日本表面真空学会](https://www.jvss.jp/)
 
 <p style="margin-bottom: 2em; "></p>
 
-論文
-=====
-<p style="margin-bottom: -1em; "></p>
-<ul>{% for post in site.publications reversed %}
-  {% include archive-single-cv.html %}
-{% endfor %}</ul>
-
-<p style="margin-bottom: 3.5em; "></p>
-
-学会発表
-=====
+### 学会発表
 <p style="margin-bottom: -0.5em; "></p>
 
 [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja)
@@ -65,7 +47,6 @@ author_profile: true
 <p style="margin-bottom: -1.0em; "></p>
 
 国際学会
-------
 <p style="margin-bottom: -1em; "></p>
 
 <ul>{% for post in site.talks reversed %}
