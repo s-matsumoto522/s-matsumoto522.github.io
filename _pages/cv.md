@@ -20,6 +20,7 @@ redirect_from:
     </tr>
 </table>
 
+
 ## Education
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
