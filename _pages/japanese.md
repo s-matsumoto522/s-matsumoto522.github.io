@@ -7,21 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-<p style="margin-bottom:  1.5em;"></p>
-<p style="margin-bottom: -0.5em;">
-  <font size="5"><b>松元 智嗣（まつもと さとし）</b></font>
-</p>
+<font size="5"><b>松元 智嗣（まつもと さとし）</b></font>
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 &ensp;[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
 博士後期課程1年
-<p style="margin-bottom: -0.5em; "></p>
 
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
-<p style="margin-bottom: -0.5em; "></p>
 
 研究対象：乱流，機械学習，乱流モデリング，低次元モデリング
-<p style="margin-bottom: -0.5em; "></p>
 
 📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
 
@@ -44,9 +38,7 @@ author_profile: true
 ----
 ## 学会発表
 <p style="margin-bottom: -0.5em; "></p>
-
-[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja)
-
+<!-- [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja) -->
 <p style="margin-bottom: -1.0em; "></p>
 
 国際学会
