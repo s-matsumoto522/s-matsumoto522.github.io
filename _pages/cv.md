@@ -20,7 +20,7 @@ redirect_from:
     </tr>
 </table><br>
 
-## Education
+## Education(test)
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
