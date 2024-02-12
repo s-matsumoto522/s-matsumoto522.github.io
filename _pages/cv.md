@@ -9,51 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+## Employment
+<table style="border:none;font-size: 12pt;cellspacing=0>
+    <tr style="border:none;">
+        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow: Japan Society for the Promotion of Science (JSPS) DC1 (Osaka University)</a></td>
+    </tr>
+</table>
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Education
+----
+<table style="border:none;font-size: 12pt;cellspacing=0>
+    <tr style="border:none;">
+        <td style="border:none;">2023年4月〜現在</td><td style="border:none;"><a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a> 機能創成専攻 博士後期課程</td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2023年4月〜現在</td><td style="border:none;"><a href="https://www.jsps.go.jp/j-pd/index.html">日本学術振興会特別研究員（DC1）</a></td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2023年3月</td><td style="border:none;">修士（工学）　<a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学大学院基礎工学研究科</a></td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2021年3月</td><td style="border:none;">学士（工学）　<a href="https://www.es.osaka-u.ac.jp/ja/">大阪大学基礎工学部</a></td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2017年3月</td><td style="border:none;">兵庫県立尼崎稲園高等学校　卒業</td>
+    </tr>
+</table>
