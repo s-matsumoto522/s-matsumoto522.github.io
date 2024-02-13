@@ -63,7 +63,6 @@ redirect_from:
 <li>Japanese - 4</li>
 <li>English - 2</li>
 </ul>
-<br>
 <ul style="margin-top: 0;margin-bottom: 0">
 <li>Python - 3</li>
 <li>Fortran - 3</li>
