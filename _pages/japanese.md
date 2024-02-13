@@ -40,30 +40,49 @@ author_profile: true
         <td style="border:none;">2017年3月</td><td style="border:none;">兵庫県立尼崎稲園高等学校　卒業</td>
     </tr>
 </table>
-<p style="margin-bottom: 1.5em; "></p>
 
 ## 所属学会
 ----
 - [日本流体力学会](https://www.nagare.or.jp/)
 - [日本機械学会](https://www.jsme.or.jp/)
 
-## 学会発表
+## 受賞歴
+----
+<table style="border:none;font-size: 14pt;cellspacing=0">
+    <tr style="border:none;">
+        <td style="border:none;">2023年3月</td><td style="border:none;">大阪大学 基礎工学研究科賞</td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2022年12月</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">数値流体力学シンポジウム 若手優秀講演表彰</a></td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2021年3月</td><td style="border:none;">大阪大学 機械工学魁賞</td>
+    </tr>
+</table>
+
+## 委員
+<table style="border:none;font-size: 14pt;cellspacing=0">
+    <tr style="border:none;">
+        <td style="border:none;">2023年8月〜現在</td><td style="border:none;">流体若手夏の学校2024実行委員会 副代表</td>
+    </tr>
+</table>
+<!-- ## 学会発表
 ----
 <p style="margin-bottom: -0.5em; "></p>
-<!-- [外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja) -->
-<p style="margin-bottom: -1.0em; "></p>
+[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja) -->
+<!-- <p style="margin-bottom: -1.0em; "></p> -->
 
-### 国際学会
-<p style="margin-bottom: -1em; "></p>
+<!-- ### 国際学会
+<p style="margin-bottom: -1em; "></p> -->
 
-<ul>{% for post in site.talks reversed %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}</ul>
+<!-- <ul>{% for post in site.talks reversed %} -->
+  <!-- {% include archive-single-talk-cv.html %} -->
+<!-- {% endfor %}</ul> -->
 
-<p style="margin-bottom: -1em; "></p>
+<!-- <p style="margin-bottom: -1em; "></p> -->
 
 
-### 国内学会
+<!-- ### 国内学会 -->
 
 
 <!-- <p style="margin-bottom: 2em; "></p> -->
