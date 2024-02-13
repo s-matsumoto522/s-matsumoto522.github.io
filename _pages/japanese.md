@@ -66,34 +66,3 @@ author_profile: true
         <td style="border:none;">2023年8月〜現在</td><td style="border:none;">流体若手夏の学校2024実行委員会 副代表</td>
     </tr>
 </table>
-<!-- ## 学会発表
-----
-<p style="margin-bottom: -0.5em; "></p>
-[外部ページ（researchmap）に移動](https://researchmap.jp/wataruiwashita/presentations?limit=100&lang=ja) -->
-<!-- <p style="margin-bottom: -1.0em; "></p> -->
-
-<!-- ### 国際学会
-<p style="margin-bottom: -1em; "></p> -->
-
-<!-- <ul>{% for post in site.talks reversed %} -->
-  <!-- {% include archive-single-talk-cv.html %} -->
-<!-- {% endfor %}</ul> -->
-
-<!-- <p style="margin-bottom: -1em; "></p> -->
-
-
-<!-- ### 国内学会 -->
-
-
-<!-- <p style="margin-bottom: 2em; "></p> -->
-
-<!-- スーパーコンピュータ公募利用
-=====
-
-|  スーパーコンピュータ  |  課題枠  |  利用年  |
-| ---- | ---- | ---- |
-|  理化学研究所計算科学研究センター 「富岳」  |  一般試行課題  | 2023 |
-|  大阪大学サイバーメディアセンター SQUID  |  大規模HPC支援枠  | 2023 |
-|  自然科学研究機構 計算科学研究センター  |  施設利用(B)  | 2023 | -->
-
-[ethyrep]:https://leadinghouseasia.ethz.ch/funding-instruments/mobility-grants/young-researchers-exchange-programmes/young-researchers--exchange-programme---special-2023-call.html

@@ -54,7 +54,7 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">Young Presentation Award of The Japan Society of Fluid Mechanics 2022</a></td>
+        <td style="border:none;">2022.12</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">Young Presentation Award of The Japan Society of Fluid Mechanics 2022</a></td>
     </tr>
 </table>
 
