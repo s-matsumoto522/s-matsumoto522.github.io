@@ -6,7 +6,7 @@ permalink: /talks/ja_2021-03-16-sotsuken
 venue: "日本機械学会関西学生会2020年度学生員卒業研究発表講演会"
 date: 2021-03-16
 location: "オンライン開催"
-authors: "松元智嗣，後藤晋"
+authors: "松元智嗣, 後藤晋"
 first: "y"
 ---
 
