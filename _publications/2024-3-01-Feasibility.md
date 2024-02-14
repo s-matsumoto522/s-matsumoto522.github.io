@@ -12,5 +12,3 @@ citation: 'S. Matsumoto, M. Inubushi & S. Goto, <i>to be submitted</i> (2024).'
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf) -->
 
 <!-- Recommended citation: S. Matsumoto, M. Inubushi & S. Goto, <i>to be submitted</i> (2024). -->
-
-Comming soon...
