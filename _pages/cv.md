@@ -16,7 +16,7 @@ redirect_from:
         <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow, Japan Society for the Promotion of Science (JSPS) DC1</a></td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">2023.10 - 2023.12</td><td style="border:none;"><a href="https://www.c-engine.org/en_students/">Research Internship</a>, <a href="https://www.ricoh.com/">Ricoh Co., Ltd.</a></td>
+        <td style="border:none;">2023.10 - 2023.12</td><td style="border:none;"><a href="https://www.c-engine.org/en_students/">C-ENGINE Research Internship</a>, <a href="https://www.ricoh.com/">Ricoh Co., Ltd.</a></td>
     </tr>
 </table>
 
