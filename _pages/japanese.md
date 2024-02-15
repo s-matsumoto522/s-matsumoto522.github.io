@@ -53,7 +53,7 @@ author_profile: true
         <td style="border:none;">2023年3月</td><td style="border:none;">大阪大学 基礎工学研究科賞</td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">2022年12月</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">数値流体力学シンポジウム 若手優秀講演表彰</a></td>
+        <td style="border:none;">2022年12月</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">第36回数値流体力学シンポジウム 若手優秀講演表彰</a></td>
     </tr>
     <tr style="border:none;">
         <td style="border:none;">2021年3月</td><td style="border:none;">大阪大学 機械工学魁賞</td>
