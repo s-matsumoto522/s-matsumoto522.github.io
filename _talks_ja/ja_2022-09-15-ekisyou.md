@@ -2,7 +2,7 @@
 title: "超膨潤ラメラ相の複屈折を利用した流れの可視化"
 collection: talks
 type: "口頭発表"
-permalink: /talks/ja_2022-09-15-ekisyou
+permalink: /talks/2022-09-15-ekisyou
 venue: "2022年液晶学会討論会"
 date: 2022-09-15
 location: "オンライン開催"
