@@ -59,19 +59,18 @@ redirect_from:
 ----
 4: Native, 3: Fluent, 2: Good, 1: Fair
 
-<ul style="margin-top: 0;margin-bottom: 0">
+<p><ul style="margin-top: 0;margin-bottom: 0">
 <li>Japanese - 4</li>
 <li>English - 2</li>
 </ul>
-
-
+<br>
 <ul style="margin-top: 0;margin-bottom: 0">
 <li>Python - 3</li>
 <li>Fortran - 3</li>
 <li>HTML - 1</li>
 <li>C - 1</li>
 </ul>
-
+</p>
 <!-- <tr style="border:none;">
     <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.isas.jaxa.jp/en/researchers/inter-university/">Inter-University Research System Researcher, JAXA Institute of Space and Astronautical Science</a></td>
 </tr> -->
