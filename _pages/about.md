@@ -16,21 +16,41 @@ Ph.D. student <br>
 📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
 <p style="margin-bottom: -1em; "></p>
 
-## Resent News
-----
-<div style="width: 100%; height: 100px; overflow-y: scroll; border: 1px #999 solid;">
+## Update History
+<div style="width: 100%; height: 150px; overflow-y: scroll; border: 1px #999 solid; background:#ffffff;">
 <ul>
-<li>ここに入力する</li>
+<li>2024.02.15: ウェブサイトを公開しました．/ Website is now open!! </li>
 </ul>
 </div>
 
+## Resent News
+dl{
+ width:500px;
+}
+dt{
+ border-bottom:1px solid #ccc;
+  float:left;
+  padding:10px 5px;
+}
+dd{
+ border-bottom:1px solid #ccc;
+  margin-left:100px;
+  padding:10px 5px;
+}
+a{
+  background-color:red;
+  border-radius:5px;
+  color:#fff;
+  margin:0 20px;
+  padding:5px 15px;
+  text-decoration:none;
+}
+
 ## Research Interest
-----
 * Turbulence
 * Machine learning (reservoir computing, autoencoder)
 * Nonlinear dynamical systems
 
 ## Affiliated academic society
-----
 [The Japan Society of Fluid Mechanics](https://www.nagare.or.jp/en/index.html) <br>
 [The Japan Society of Mechanical Engineers](https://www.jsme.or.jp/english/)
