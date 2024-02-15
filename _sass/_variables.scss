@@ -1,10 +1,10 @@
 /* ==========================================================================
-   Variables
-   ========================================================================== */
+Variables
+========================================================================== */
 
 /*
-   Typography
-   ========================================================================== */
+Typography
+========================================================================== */
 
 $doc-font-size              : 16;
 
@@ -44,23 +44,25 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
-   ========================================================================== */
+    Colors
+    ========================================================================== */
 
 $gray                       : #7a8288;
 $dark-gray                  : mix(#000, $gray, 40%);
+$dark-gray2                 : mix(#000, $gray, 50%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : #fff;
-$background-color           : #ffffeb;
+$background-color           : #FFFFE1;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $light-gray;
+$text-color                 : $dark-gray2;
+$border-color               : $lighter-gray;
 
-$primary-color              : #7a8288;
+$primary-color              : #5aaa69;
+$primary-color2             : #27ec3b;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
@@ -82,7 +84,7 @@ $rss-color                  : #fa9b39;
 $soundcloud-color           : #ff3300;
 $stackoverflow-color        : #fe7a15;
 $tumblr-color               : #32506d;
-$twitter-color              : #55acee;
+$twitter-color              : #000000;
 $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
 $youtube-color              : #bb0000;
@@ -93,14 +95,13 @@ $xing-color                 : #006567;
 $link-color                 : $info-color;
 $link-color-hover           : mix(#000, $link-color, 25%);
 $link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : #ffffff;
-$masthead-link-color-hover  : #ffffff;
-// $masthead-link-color-hover  : mix(#ffffff, $primary-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color2, 25%);
 
 
 /*
-   Breakpoints
-   ========================================================================== */
+    Breakpoints
+    ========================================================================== */
 
 @include breakpoint-set("to ems", true);
 /*
@@ -118,34 +119,34 @@ $large                      : 925px !default;
 $x-large                    : 1280px !default;
 
 /*
-   Grid
-   ========================================================================== */
+    Grid
+    ========================================================================== */
 
 $right-sidebar-width-narrow : 0px;
 $right-sidebar-width        : 0px;
 $right-sidebar-width-wide   : 0px;
 
 $susy: (
-  columns: 12,
-  column-width: 120px,
-  gutters: 1/4,
-  math: fluid,
-  output: float,
-  gutter-position: after,
-  container: $large,
-  global-box-sizing: border-box,
-  // debug: (
-  //   image: show,
-  //   color: blue,
-  //   output: overlay,
-  //   toggle: top right,
-  // ),
+    columns: 12,
+    column-width: 120px,
+    gutters: 1/4,
+    math: fluid,
+    output: float,
+    gutter-position: after,
+    container: $large,
+    global-box-sizing: border-box,
+    // debug: (
+    //   image: show,
+    //   color: blue,
+    //   output: overlay,
+    //   toggle: top right,
+    // ),
 );
 
 
 /*
-   Other
-   ========================================================================== */
+    Other
+    ========================================================================== */
 
 $border-radius              : 4px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
