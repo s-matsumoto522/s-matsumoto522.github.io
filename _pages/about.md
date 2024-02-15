@@ -20,7 +20,6 @@ Ph.D. student <br>
 ## Resent News
 <div style="width: 100%; height: 200px; overflow-y: scroll; border: none">
     <ul>
-        <li>2024.02.15: テスト2 <font color="#ff0000"> New!! </font></li>
         <li>2024.02.15: Website is now open / ウェブサイトを公開しました <font color="#ff0000"> New!! </font></li>
     </ul>
 </div>
