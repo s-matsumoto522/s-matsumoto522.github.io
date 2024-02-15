@@ -19,32 +19,43 @@ Ph.D. student <br>
 ## Update History
 <div style="width: 100%; height: 150px; overflow-y: scroll; border: 1px #999 solid; background:#ffffff;">
 <ul>
-<li>2024.02.15: ウェブサイトを公開しました．/ Website is now open!! </li>
+<li>2024.02.15: Website is now open / ウェブサイトを公開しました <font color=”red”>New!!</font></li>
 </ul>
 </div>
 
 ## Resent News
-dl{
- width:500px;
-}
-dt{
- border-bottom:1px solid #ccc;
-  float:left;
-  padding:10px 5px;
-}
-dd{
- border-bottom:1px solid #ccc;
-  margin-left:100px;
-  padding:10px 5px;
-}
-a{
-  background-color:red;
-  border-radius:5px;
-  color:#fff;
-  margin:0 20px;
-  padding:5px 15px;
-  text-decoration:none;
-}
+ <ul class="news_list">
+    <li class="news_list_item">
+      <a href="">
+        <div class="news_list_date">
+          <time>2020.05.12</time>
+          <p class="news_item">お知らせ</p>
+        </div>
+        <p>サイトリニューアルしました。</p>
+        <span class="arrow"></span>
+      </a>
+    </li>
+    <li class="news_list_item">
+      <a href="">
+        <div class="news_list_date">
+          <time>2020.05.12</time>
+          <p class="news_item">お知らせ</p>
+        </div>
+        <p>記事が更新されました。記事が更新されました。記事が更新されました。記事が更新されました。</p>
+        <span class="arrow"></span>
+      </a>
+    </li>
+    <li class="news_list_item">
+      <a href="">
+        <div class="news_list_date">
+          <time>2020.05.12</time>
+          <p class="news_item">お知らせ</p>
+        </div>
+        <p>サイトリニューアルしました。</p>
+        <span class="arrow"></span>
+      </a>
+    </li>
+</ul>
 
 ## Research Interest
 * Turbulence
