@@ -16,8 +16,36 @@ Ph.D. student <br>
 📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
 <p style="margin-bottom: -1em; "></p>
 
-----
+## Resent News
+<ul>
+  <li>
+    <a href="#">
+      <span>2019.1.1</span>
+      <p>ニュースニュースニュースニュース</p>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span>2019.1.1</span>
+      <p>ニュースニュースニュースニュース</p>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span>2019.1.1</span>
+      <p>ニュースニュースニュースニュース</p>
+    </a>
+  </li>
+  <li>
+    <a href="#">
+      <span>2019.1.1</span>
+      <p>ニュースニュースニュースニュース</p>
+    </a>
+  </li>
+</ul>
+
 ## Research Interest
+----
 * Turbulence
 * Machine learning (reservoir computing, autoencoder)
 * Nonlinear dynamical systems
