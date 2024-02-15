@@ -60,9 +60,13 @@ author_profile: true
     </tr>
 </table>
 
-## 委員
+## その他
+----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
         <td style="border:none;">2023年8月〜現在</td><td style="border:none;">流体若手夏の学校2024実行委員会 副代表</td>
+    </tr>
+    <tr style="border:none;">
+        <td style="border:none;">2023年10月〜2023年12月</td><td style="border:none;">株式会社リコー 研究インターンシップ</td>
     </tr>
 </table>

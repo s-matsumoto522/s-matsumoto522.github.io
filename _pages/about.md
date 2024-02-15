@@ -17,12 +17,12 @@ Ph.D. student <br>
 <p style="margin-bottom: -1em; "></p>
 
 ----
-### Research Interest
+## Research Interest
 * Turbulence
 * Machine learning (reservoir computing, autoencoder)
 * Nonlinear dynamical systems
 
 -----
-### Affiliated academic society
+## Affiliated academic society
 [The Japan Society of Fluid Mechanics](https://www.nagare.or.jp/en/index.html) <br>
 [The Japan Society of Mechanical Engineers](https://www.jsme.or.jp/english/)
