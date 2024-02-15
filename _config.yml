@@ -248,6 +248,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _talks
+  - scope:
+      path: ""
+      type: talks_ja
+    values:
+      layout: talk_ja
+      author_profile: true
+      share: true
 
 # Sass/SCSS
 sass:
