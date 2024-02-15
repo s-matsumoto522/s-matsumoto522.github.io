@@ -13,10 +13,10 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow, Japan Society for the Promotion of Science (JSPS) DC1</a></td>
+        <td style="border:none;">Apr 2023 - present</td><td style="border:none;"><a href="https://www.jsps.go.jp/english/e-pd/">Research Fellow, Japan Society for the Promotion of Science (JSPS) DC1</a></td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">2023.10 - 2023.12</td><td style="border:none;"><a href="https://www.c-engine.org/en_students/">C-ENGINE Research Internship</a>, <a href="https://www.ricoh.com/">Ricoh Co., Ltd.</a></td>
+        <td style="border:none;">Oct 2023 - Dec 2023</td><td style="border:none;"><a href="https://www.c-engine.org/en_students/">C-ENGINE Research Internship</a>, <a href="https://www.ricoh.com/">Ricoh Co., Ltd.</a></td>
     </tr>
 </table>
 
@@ -24,13 +24,13 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;">Ph.D. course in Graduate School of Engineering Science, <a href="https://www.es.osaka-u.ac.jp/en/">Osaka University</a>, Japan</td>
+        <td style="border:none;">Apr 2023 - present</td><td style="border:none;">Ph.D. course in Graduate School of Engineering Science, <a href="https://www.es.osaka-u.ac.jp/en/">Osaka University</a>, Japan</td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">2023.03</td><td style="border:none;">M.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Graduate School of Engineering Science, Osaka University</a>, Japan</td>
+        <td style="border:none;">Mar 2023</td><td style="border:none;">M.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Graduate School of Engineering Science, Osaka University</a>, Japan</td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">2023.03</td><td style="border:none;">B.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Department of Engineering Science, Osaka University</a>, Japan</td>
+        <td style="border:none;">Mar 2023</td><td style="border:none;">B.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Department of Engineering Science, Osaka University</a>, Japan</td>
     </tr>
 </table>
 
@@ -38,7 +38,7 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2023.04 - 2023.08</td><td style="border:none;">Teaching Assistant, Osaka University, Japan (Exercises in Mathematics and Mechanics)</td>
+        <td style="border:none;">Apr 2023 - Aug 2023</td><td style="border:none;">Teaching Assistant, Osaka University, Japan (Exercises in Mathematics and Mechanics)</td>
     </tr>
 </table>
 
@@ -46,7 +46,7 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ1528/">Grant-in-Aid for Japan Society for the Promotion of Science Fellows (¥3,000,000)</a></td>
+        <td style="border:none;">Apr 2023 - present</td><td style="border:none;"><a href="https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23KJ1528/">Grant-in-Aid for Japan Society for the Promotion of Science Fellows (¥3,000,000)</a></td>
     </tr>
 </table>
 
@@ -54,7 +54,7 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">2022.12</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">Young Presentation Award of The Japan Society of Fluid Mechanics 2022</a></td>
+        <td style="border:none;">Dec 2022</td><td style="border:none;"><a href="https://www.nagare.or.jp/prize/6403/6802.html">Young presentation Award of The Japan Society of Fluid Mechanics 2022</a></td>
     </tr>
 </table>
 
@@ -74,6 +74,3 @@ redirect_from:
 <li>C - 1</li>
 </ul>
 </p>
-<!-- <tr style="border:none;">
-    <td style="border:none;">2023.04 - Present</td><td style="border:none;"><a href="https://www.isas.jaxa.jp/en/researchers/inter-university/">Inter-University Research System Researcher, JAXA Institute of Space and Astronautical Science</a></td>
-</tr> -->
