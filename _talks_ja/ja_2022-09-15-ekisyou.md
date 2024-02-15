@@ -9,5 +9,4 @@ location: "オンライン開催"
 authors: "佐々木 弘毅, 松元 智嗣, 内田 幸明, 後藤 晋, 西山 憲和"
 first: "n"
 ---
-
 <a href="https://jlcs.jp/ekitou/2022/" target="_blank" rel="noopener noreferrer">学会website</a>

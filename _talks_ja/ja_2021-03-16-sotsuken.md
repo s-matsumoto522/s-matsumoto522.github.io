@@ -9,5 +9,4 @@ location: "オンライン開催"
 authors: "松元智嗣, 後藤晋"
 first: "y"
 ---
-
 <a href="https://confit.atlas.jp/guide/event/ksconf2021s/top" target="_blank" rel="noopener noreferrer">学会website</a>

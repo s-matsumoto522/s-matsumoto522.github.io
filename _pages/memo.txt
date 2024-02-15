@@ -1,0 +1,308 @@
+<div id="newstab" class="ui-tabs ui-widget ui-widget-content ui-corner-all">
+				<ul class="newstab ui-tabs-nav ui-helper-reset ui-helper-clearfix ui-widget-header ui-corner-all" role="tablist">
+					<li class="ui-state-default ui-corner-top ui-tabs-active ui-state-active" role="tab" tabindex="0" aria-controls="tab1" aria-labelledby="ui-id-1" aria-selected="true" aria-expanded="true"><a href="#tab1" class="caticon all ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-1">すべて</a></li>
+					<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab2" aria-labelledby="ui-id-2" aria-selected="false" aria-expanded="false"><a href="#tab2" class="caticon activity ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-2">活動報告</a></li>
+					<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab3" aria-labelledby="ui-id-3" aria-selected="false" aria-expanded="false"><a href="#tab3" class="caticon award ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-3">受賞</a></li>
+					<li class="ui-state-default ui-corner-top" role="tab" tabindex="-1" aria-controls="tab4" aria-labelledby="ui-id-4" aria-selected="false" aria-expanded="false"><a href="#tab4" class="caticon topics ui-tabs-anchor" role="presentation" tabindex="-1" id="ui-id-4">その他</a></li>
+				</ul>
+				<div id="tab1" aria-labelledby="ui-id-1" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-hidden="false">
+					<ul class="newsbox">
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240209/?lang=ja">
+								<span class="entrydate">2024年2月9日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">2023年度物質科学特別講義を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240206/?lang=ja">
+								<span class="entrydate">2024年2月6日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">Prof. Toshihide Kobayashi による講演会が開催されました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20240129/?lang=ja">
+								<span class="entrydate">2024年1月29日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">カデットプログラムの願書受付を開始しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20240127/?lang=ja">
+								<span class="entrydate">2024年1月27日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">鳥井健司さんが第11回 武田科学振興財団 薬科学シンポジウムにてポスター賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240126/?lang=ja">
+								<span class="entrydate">2024年1月26日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">「科学史」　学生プレゼンテーションを行いました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240116/?lang=ja">
+								<span class="entrydate">2024年1月16日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">研究室ローテーション報告会を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231226/?lang=ja">
+								<span class="entrydate">2023年12月26日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">2023年度第1回国内研修・海外研修報告会を実施しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231220-3/?lang=ja">
+								<span class="entrydate">2023年12月20日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">履修生募集説明会を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231220-2/?lang=ja">
+								<span class="entrydate">2023年12月20日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">「物質科学英語３ｂ」最終回の講義が行われました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20231215/?lang=ja">
+								<span class="entrydate">2023年12月15日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">2024年度履修生募集説明ビデオを公開しました</span>
+							</a>
+						</li>
+											</ul>
+					<p class="tolist"><a href="/news/?lang=ja">一覧を見る</a></p>
+				</div>
+				<div id="tab2" aria-labelledby="ui-id-2" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-hidden="true" style="display: none;">
+					<ul class="newsbox">
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240209/?lang=ja">
+								<span class="entrydate">2024年2月9日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">2023年度物質科学特別講義を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240206/?lang=ja">
+								<span class="entrydate">2024年2月6日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">Prof. Toshihide Kobayashi による講演会が開催されました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240126/?lang=ja">
+								<span class="entrydate">2024年1月26日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">「科学史」　学生プレゼンテーションを行いました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20240116/?lang=ja">
+								<span class="entrydate">2024年1月16日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">研究室ローテーション報告会を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231226/?lang=ja">
+								<span class="entrydate">2023年12月26日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">2023年度第1回国内研修・海外研修報告会を実施しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231220-3/?lang=ja">
+								<span class="entrydate">2023年12月20日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">履修生募集説明会を開催しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231220-2/?lang=ja">
+								<span class="entrydate">2023年12月20日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">「物質科学英語３ｂ」最終回の講義が行われました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231201-02-2/?lang=ja">
+								<span class="entrydate">2023年12月2日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">大学院教育改革フォーラム2023が開催されました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20231130-4/?lang=ja">
+								<span class="entrydate">2023年11月30日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">2023 Sir Martin Wood Prize Lecture in Osaka Universityが開催されました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/activity/20230911-15-2/?lang=ja">
+								<span class="entrydate">2023年9月19日</span>
+								<span class="caticon activity">活動報告</span>
+								<span class="entrytitle">LEGO® Serious Play® Workshop Report</span>
+							</a>
+						</li>
+											</ul>
+					<p class="tolist"><a href="/category/activity/?lang=ja">一覧を見る</a></p>
+				</div>
+				<div id="tab3" aria-labelledby="ui-id-3" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-hidden="true" style="display: none;">
+					<ul class="newsbox">
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20240127/?lang=ja">
+								<span class="entrydate">2024年1月27日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">鳥井健司さんが第11回 武田科学振興財団 薬科学シンポジウムにてポスター賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231214/?lang=ja">
+								<span class="entrydate">2023年12月14日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">西村里桜さんが第三回基礎有機若手オンラインシンポジウムにて優秀講演賞および優秀ディスカッション賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231209/?lang=ja">
+								<span class="entrydate">2023年12月9日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">栗原諒さんが第3回関西電気化学研究会にて関西電気化学奨励賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231130-3/?lang=ja">
+								<span class="entrydate">2023年11月30日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">江島諒さんが第13回CSJ化学フェスタ2023にて最優秀ポスター発表賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231130-2/?lang=ja">
+								<span class="entrydate">2023年11月30日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">加納龍成さんが第13回CSJ化学フェスタ2023にて優秀ポスター発表賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231014-3/?lang=ja">
+								<span class="entrydate">2023年10月14日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">戸市裕一朗さんが日本物理学会第78回年次大会にて学生優秀発表賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231014-2/?lang=ja">
+								<span class="entrydate">2023年10月14日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">野末悟郎さんが日本物理学会第78回年次大会にて学生優秀発表賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20231014/?lang=ja">
+								<span class="entrydate">2023年10月14日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">舟見優さんが日本物理学会第78回年次大会にて学生優秀発表賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20230924/?lang=ja">
+								<span class="entrydate">2023年9月24日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">張路明さんがCATS-2023にて最優秀ポスター賞を受賞しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/award/20230919/?lang=ja">
+								<span class="entrydate">2023年9月19日</span>
+								<span class="caticon award">受賞</span>
+								<span class="entrytitle">二本木克旭さんが第十回西日本強磁場科学研究会にて学生優秀発表賞を受賞しました</span>
+							</a>
+						</li>
+											</ul>
+					<p class="tolist"><a href="/category/award/?lang=ja">一覧を見る</a></p>
+				</div>
+				<div id="tab4" aria-labelledby="ui-id-4" class="ui-tabs-panel ui-widget-content ui-corner-bottom" role="tabpanel" aria-hidden="true" style="display: none;">
+					<ul class="newsbox">
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20240129/?lang=ja">
+								<span class="entrydate">2024年1月29日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">カデットプログラムの願書受付を開始しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20231215/?lang=ja">
+								<span class="entrydate">2023年12月15日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">2024年度履修生募集説明ビデオを公開しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20231201/?lang=ja">
+								<span class="entrydate">2023年12月1日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">プログラム担当教員に新しい先生方が加わりました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20231109/?lang=ja">
+								<span class="entrydate">2023年11月9日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">2024年（令和6年）度募集要項等を掲載しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230821-2/?lang=ja">
+								<span class="entrydate">2023年8月21日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">IMSC News Letter No.30を発行しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230728-2/?lang=ja">
+								<span class="entrydate">2023年7月28日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">吉田大地さんが会誌「高分子」のHot Topicsセクションに研究紹介を寄稿しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230728/?lang=ja">
+								<span class="entrydate">2023年7月28日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">金庚民さんの解説記事が「表面と真空」７月号に掲載されました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230510-2/?lang=ja">
+								<span class="entrydate">2023年5月10日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">プログラム担当教員に新たな先生が加わりました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230510/?lang=ja">
+								<span class="entrydate">2023年5月10日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">新任教員が着任しました</span>
+							</a>
+						</li>
+												<li>
+							<a href="https://www.msc.osaka-u.ac.jp/topics/20230327/?lang=ja">
+								<span class="entrydate">2023年3月27日</span>
+								<span class="caticon topics">その他</span>
+								<span class="entrytitle">超階層マテリアルサイエンスプログラム＜新D1生枠２次募集＞募集要項を掲載しました</span>
+							</a>
+						</li>
+											</ul>
+					<p class="tolist"><a href="/category/topics/?lang=ja">一覧を見る</a></p>
+				</div>
+			</div>
