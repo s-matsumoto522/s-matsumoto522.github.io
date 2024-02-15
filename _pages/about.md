@@ -15,11 +15,12 @@ Ph.D. student <br>
 
 📧: s_matsumoto(at)fm.me.es.osaka-u.ac.jp
 <p style="margin-bottom: -1em; "></p>
+<br>
 
 ## Update History
-<div style="width: 100%; height: 150px; overflow-y: scroll; border: 1px #999 solid; background:#ffffff;">
+<div style="width: 100%; height: 150px; overflow-y: scroll; border: 1px #999 solid">
 <ul>
-<li>2024.02.15: Website is now open / ウェブサイトを公開しました <font color=”red”>New!!</font></li>
+<li>2024.02.15: Website is now open / ウェブサイトを公開しました <font color=”red”> New!! </font></li>
 </ul>
 </div>
 
