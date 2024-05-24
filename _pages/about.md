@@ -22,7 +22,7 @@ Ph.D. student <br>
     <ul>
         <li>May. 24th, 2024: Update talk information / 学会情報を更新しました <font color="#ff0000"> New!! </font></li>
         <li>May. 22th, 2024: Update publication information / 論文情報を更新しました <font color="#ff0000"> New!! </font></li>
-        <li>Apr. 15th, 2024: Website is now open / ウェブサイトを公開しました
+        <li>Apr. 15th, 2024: Website is now open / ウェブサイトを公開しました</li>
     </ul>
 </div>
 
