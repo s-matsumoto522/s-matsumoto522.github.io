@@ -12,7 +12,7 @@ author_profile: true
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 &ensp;[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
-博士後期課程1年
+博士後期課程2年
 <p style="margin-bottom:  -0.5em;"></p>
 
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
