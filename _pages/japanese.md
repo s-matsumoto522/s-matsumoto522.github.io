@@ -45,6 +45,7 @@ author_profile: true
 ----
 - [日本流体力学会](https://www.nagare.or.jp/)
 - [日本機械学会](https://www.jsme.or.jp/)
+- [日本物理学会](https://www.jps.or.jp/)
 
 ## 受賞歴
 ----
