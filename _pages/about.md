@@ -20,7 +20,9 @@ Ph.D. student <br>
 ## Resent News
 <div style="width: 100%; height: 200px; overflow-y: scroll; border: none">
     <ul>
-        <li>Jun. 5th, 2024: Update talk information / 学会情報を更新しました<font color="#ff0000"> New!! </font></li>
+        <li>Oct. 16th, 2024: Update talk information / 学会情報を更新しました<font color="#ff0000"> New!! </font></li>
+        <li>Oct. 11th, 2024: My paper has been published!! / 論文が出版されました！<font color="#ff0000"> New!! </font></li>
+        <li>Jun. 5th, 2024: Update talk information / 学会情報を更新しました</li>
         <li>May. 24th, 2024: Update talk information / 学会情報を更新しました</li>
         <li>May. 22th, 2024: Update publication information / 論文情報を更新しました</li>
         <li>Apr. 15th, 2024: Website is now open / ウェブサイトを公開しました</li>
