@@ -23,7 +23,7 @@ Ph.D. student <br>
         <li>Oct. 16th, 2024: Update talk information / 学会情報を更新しました<font color="#ff0000"> New!! </font></li>
         <li>Oct. 11th, 2024: My paper has been published!! / 論文が出版されました！<font color="#ff0000"> New!! </font></li>
         <ul>
-            <li>Pls. see: https://doi.org/10.1103/PhysRevFluids.9.104601</li>
+            <li><a href="https://doi.org/10.1103/PhysRevFluids.9.104601" target="_blank" rel="noopener noreferrer">Physical Review Fluids</a></li>
         </ul>
         <li>Jun. 5th, 2024: Update talk information / 学会情報を更新しました</li>
         <li>May. 24th, 2024: Update talk information / 学会情報を更新しました</li>
