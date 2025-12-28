@@ -12,7 +12,7 @@ author_profile: true
 
 [大阪大学大学院基礎工学研究科](https://www.es.osaka-u.ac.jp/ja/)
 &ensp;[流体力学グループ](https://fm.me.es.osaka-u.ac.jp/index.html) <br>
-博士後期課程2年
+博士後期課程3年
 <p style="margin-bottom:  -0.5em;"></p>
 
 [日本学術振興会特別研究員（DC1）](https://www.jsps.go.jp/j-pd/index.html)
@@ -44,7 +44,6 @@ author_profile: true
 ## 所属学会
 ----
 - [日本流体力学会](https://www.nagare.or.jp/)
-- [日本機械学会](https://www.jsme.or.jp/)
 - [日本物理学会](https://www.jps.or.jp/)
 
 ## 受賞歴
