@@ -30,7 +30,7 @@ redirect_from:
         <td style="border:none;">Mar 2023</td><td style="border:none;">M.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Graduate School of Engineering Science, Osaka University</a>, Japan</td>
     </tr>
     <tr style="border:none;">
-        <td style="border:none;">Mar 2023</td><td style="border:none;">B.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Department of Engineering Science, Osaka University</a>, Japan</td>
+        <td style="border:none;">Mar 2021</td><td style="border:none;">B.Eng. in <a href="https://www.es.osaka-u.ac.jp/en/">Department of Engineering Science, Osaka University</a>, Japan</td>
     </tr>
 </table>
 
