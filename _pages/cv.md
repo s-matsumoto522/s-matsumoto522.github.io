@@ -38,7 +38,6 @@ redirect_from:
 ----
 <table style="border:none;font-size: 14pt;cellspacing=0">
     <tr style="border:none;">
-        <td style="border:none;">Oct 2025 - Jan 2026</td><td style="border:none;">Teaching Assistant, The University of Osaka, Japan (Comprehensive Mechanical Engineering Practice)</td>
         <td style="border:none;">Apr 2023 - Aug 2023</td><td style="border:none;">Teaching Assistant, Osaka University, Japan (Exercises in Mathematics and Mechanics)</td>
     </tr>
 </table>
